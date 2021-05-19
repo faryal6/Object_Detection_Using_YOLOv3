@@ -18,11 +18,11 @@ git clone https://github.com/faryal6/Object_Detection_Using_YOLOv3.git
 ```
 cd Object_Detection_Using_YOLOv3
 ```
-3) download yolov3 weights and place it inside weights directory YOLOv3 Pre-trained Model Weights (yolov3.weights)(237 MB)
-  
+3) download yolov3 weights and place it inside weights directory [YOLOv3 Pre-trained Model Weights (yolov3.weights)(237 MB)](https://pjreddie.com/media/files/yolov3.weights")
+```
 4) To infer on an image that is stored on your local machine
 ```
-run imgae.ipnyb notebook
+run image.ipnyb notebook
 ```
 5) To infer on a video that is stored on your local machine
 ```
